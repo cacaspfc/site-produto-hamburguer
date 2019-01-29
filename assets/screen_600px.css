@@ -30,4 +30,7 @@
         height: 240px;
         font-size: 30pt;
     }
+    footer{
+        flex-direction: column;
+    }
 }
