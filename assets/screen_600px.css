@@ -1,0 +1,33 @@
+@media (max-width: 600px){
+    .frase{
+        width: 100%;
+        height: 200px;
+    }
+    .frase > p{
+        width: 90%;
+        height: 390px;
+        font-size: 45px;
+    }
+    .banner img{
+        width: 400px;
+    }
+    .ingredientes{
+        flex-direction: column;
+    }
+    .imagens{
+        width: 100%;
+        height: 2000px;
+    }
+    .imagens img{
+        width: 350px;
+    }
+    .preparo{
+        width: 100%;
+        height: 2000px;
+    }
+    .preparo > p{
+        width: 90%;
+        height: 240px;
+        font-size: 30pt;
+    }
+}
